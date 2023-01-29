@@ -1,0 +1,9 @@
+Well done!
+
+No negative comments, great job!
+
+3
+c)
+WHERE clause was not really needed. Pretened that you can't see the data.
+
+Mark: 10
