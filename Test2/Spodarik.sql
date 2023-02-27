@@ -31,10 +31,7 @@ SELECT MAX(StandardCost) as MAXCost, Color
 FROM [Production].[Product]
 GROUP BY [Color]
 
-
-
-
-
+Mark: 9
 
 
 
