@@ -1,7 +1,5 @@
 Well done!
 
-No negative comments, great job!
-
 -2
 In your solution there's no need in merge, you're doing all the calculation in other place.
 Solution is very intresting, but the task was still to practise MERGE.
