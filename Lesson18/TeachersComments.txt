@@ -1,0 +1,15 @@
+Well done!
+
+4.
+-2
+Solution: 
+SELECT department_name, (AVG(salary) OVER (PARTITION BY department_id)/AVG(salary) OVER ())*100 AS diff_pct
+FROM Employees e JOIN Departments d ON dep.department_id=emp.department_id
+
+5.
+-0.5
+You'll skip those people who is working in the same department after 10 years, 'cause their end date will be null.
+
+
+Mark: 8
+
